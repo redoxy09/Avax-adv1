@@ -2,7 +2,7 @@
 
 ## How to create a Subnet using windows🤔
 
-- 1. first you must turn on the the wsl(windows subsystem for linux) feature by searching it.
+  1. first you must turn on the the wsl(windows subsystem for linux) feature by searching it.
   2. download the ubuntu lts version using microsoft store.
   3. go through this guide now. `https://docs.avax.network/tooling/cli-guides/install-avalanche-cli`
   4. after all the process you are ready with deployment of your own `subnet`
